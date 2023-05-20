@@ -1,0 +1,43 @@
+body {
+  background-image: url('mriver.jpg');
+  font-size: 12pt; 
+  font-family: Tahoma, Verdana;
+  color: #000000;
+  height: 0%;
+  margin: 0%;
+  padding:0%;
+  line-height: 100%;
+  text-align: center
+ ;
+}
+
+header {
+  height: 100px;
+  text-align: center
+}
+
+h1
+{
+  font-size: 30pt;
+  text-align: center
+  
+}
+
+h2
+{
+  font-size: 25pt; 
+  font-family: Tahoma, Verdana;
+  color: #7191b9;
+  text-align: center
+}
+
+h3
+{
+  font-size: 15pt; 
+  color: #264368;
+  font-family: Tahoma, Verdana;
+  
+}
+
+                         
+
